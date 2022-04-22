@@ -39,7 +39,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 Win Game | player completes patterns without sacrificing more than 3 strikes:
-![](https://i.imgur.com/Pja5N9E.gif)
+![](https://i.imgur.com/9Ek9rLn.gif)
 
 Lose Game | player uses more than 3 strikes:
 ![](https://i.imgur.com/QecnbJd.gif)
