@@ -33,8 +33,8 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [ x ] Created a progress bar in addition to timer countdown
-- [ x ] Changed the background from solid to an animated ombre
+* [x] Created a progress bar in addition to timer countdown
+* [x] Changed the background from solid to an animated ombre
 
 ## Video Walkthrough (GIF)
 
@@ -67,10 +67,15 @@ Frequencies:
     http://www.musicmasterworks.com/WhereMathMeetsMusic.html
     
 ———HTML + CSS colors———
+
 Text colors: https://www.w3schools.com/html/html_styles.asp 
+
 Colors: https://www.rapidtables.com/web/css/css-color.html 
+
 Text Formatting: https://www.w3schools.com/html/html_formatting.asp 
+
 More Typography: https://sharkcoder.com/typography/fonts 
+
 Text/Element Alignment: https://programmersportal.com/how-to-center-h1-in-css/ 
 
 
