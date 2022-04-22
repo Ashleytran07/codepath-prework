@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="icon" href="https://glitch.com/favicon.ico" />
+
+    <title>ASHLEY's MUSIC TIME</title>
+
+    <!-- import the webpage's stylesheet -->
+    <link rel="stylesheet" href="/style.css" />
+
+    <!-- import the webpage's javascript file -->
+    <script src="/script.js" defer></script>
+  </head>
+  <br>
+  <body>
+    <!-- this is the start of content -->
+    <h1>
+      ashley tran !
+    </h1>
+    <strong>
+      welcome to my sound and memory game <br>
+      To play the game, click start. <br> Once you hear the tune, click on the key that matches and repeat the pattern until you win!<br>
+    </strong> 
+    <br>
+    <strong style="color:#FBCEB1;">
+      You have 3 strikes!
+    </strong>
+    <br> <br>
+    <b id = "mistakes" style = "color: #F0E68C;">
+      0 mistakes made 
+    </b><br>
+    
+    <b id = "time" style = "color: #F0E68C;">
+        time left: 20
+    </b><br><br>
+    
+    <div id = "timerDiv">
+      <div id = "timerBar"></div>
+    </div>
+    
+    <button id="startBtn" onclick="startGame()">
+      Start
+    </button>
+    <button id="stopBtn" class="hidden" onclick="stopGame()">
+      Stop
+    </button>
+    
+    <br><br>
+    
+    <div id="gameButtonArea">
+      <button id= "button1" class="button" onclick="guess(1)" onmousedown="startTone(1)" onmouseup="stopTone()">
+      </button>
+      <button id="button2" class="button" onclick="guess(2)" onmousedown="startTone(2)" onmouseup="stopTone()">
+      </button>
+      <button id="button3" class="button" onclick="guess(3)" onmousedown="startTone(3)" onmouseup="stopTone()">
+      </button>
+      <button id="button4" class="button" onclick="guess(4)" onmousedown="startTone(4)" onmouseup="stopTone()">
+      </button>
+      <button id="button5" class="button" onclick="guess(5)" onmousedown="startTone(5)" onmouseup="stopTone()">
+      </button>
+      <button id="button6" class="button" onclick="guess(6)" onmousedown="startTone(6)" onmouseup="stopTone()">
+      </button>
+      
+    </div>
+  <!-- background effect begin -->
+    <div class="d-flex flex-column justify-content-center w-100 h-100"> </div>
+
+	<div class="d-flex flex-column justify-content-center align-items-center">
+		<div class="btn-group my-5">
+	</div>
+</div>
+  <script>
+  </script>
+  </body>
+</html>
