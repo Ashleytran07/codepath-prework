@@ -40,8 +40,10 @@ The following **additional** features are implemented:
 
 Win Game | player completes patterns without sacrificing more than 3 strikes:
 ![](https://i.imgur.com/Pja5N9E.gif)
+
 Lose Game | player uses more than 3 strikes:
 ![](https://i.imgur.com/QecnbJd.gif)
+
 Run Out of Time | player goes over 20 second countdown and loses game:
 ![](https://i.imgur.com/v5qBoVH.gif)
 
@@ -52,13 +54,18 @@ Run Out of Time | player goes over 20 second countdown and loses game:
 
 Animated background:
     https://csshint.com/css-animated-backgrounds/ by Manuel Pinto
+    
 Countdown timer: 
     https://www.w3schools.com/jsref/met_win_setinterval.asp 
+    
 Progress Bar:  https://www.w3schools.com/jsref/tryit.asp?filename=tryjsref_win_setinterval_progressbar 
+
 Hidden Information: 
     https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/hidden 
+    
 Frequencies: 
     http://www.musicmasterworks.com/WhereMathMeetsMusic.html
+    
 ———HTML + CSS colors———
 Text colors: https://www.w3schools.com/html/html_styles.asp 
 Colors: https://www.rapidtables.com/web/css/css-color.html 
