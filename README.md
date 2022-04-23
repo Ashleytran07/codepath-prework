@@ -1,4 +1,4 @@
-# Pre-work - * Ashley's Sound & Memory Game*
+# Pre-work - *Ashley's Sound & Memory Game*
 
 Memory Game is a Light & Sound Memory game to apply for CodePath's FTL Program. 
 
