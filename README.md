@@ -1,4 +1,4 @@
-# Pre-work - *Memory Game*
+# Pre-work - * Ashley's Sound & Memory Game*
 
 Memory Game is a Light & Sound Memory game to apply for CodePath's FTL Program. 
 
@@ -39,7 +39,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 Win Game | player completes patterns without sacrificing more than 3 strikes:
-![](https://i.imgur.com/9Ek9rLn.gif)
+![](https://i.imgur.com/199wNQV.gif)
 
 Lose Game | player uses more than 3 strikes:
 ![](https://i.imgur.com/QecnbJd.gif)
